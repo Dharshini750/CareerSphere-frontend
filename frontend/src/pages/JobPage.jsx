@@ -24,7 +24,7 @@ const JobPage = () => {
   });
 
   const handleJobCreation = (newJobData) => {
-    // Call the mutation function to create a job
+   
     createJob(newJobData);
   };
 

@@ -6,6 +6,7 @@ import JobCreation from "../components/JobCreation";
 import Post from "../components/Post";
 import Job from "../components/Job";
 import { Users } from "lucide-react";
+
 import RecommendedUser from "../components/RecommendedUser";
 
 const HomePage = () => {
